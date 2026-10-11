@@ -1,0 +1,29 @@
+ 1937  git status
+ 1938  commit -m "initialize"
+ 1939  git commit -m "initialize"
+ 1940  git sttus
+ 1941  git status
+ 1942  git show <commit-hash>
+ 1943  git status
+ 1944  git log --oneline
+ 1945  git show HEAD:1git.py
+ 1946  echo "# Linux-cmds" >> README.md
+ 1947  git init
+ 1948  git add README.md
+ 1949  git commit -m "first commit"
+ 1950  git branch -M main
+ 1951  git remote add origin https://github.com/manish0722/Linux-cmds.git
+ 1952  git push -u origin main
+ 1953  clear
+ 1954  ls
+ 1955  cat README.md 
+ 1956  rm 1git.py 
+ 1957  ls
+ 1958  git status
+ 1959  git restore 1git.py
+ 1960  ls
+ 1961  cat 1git.py 
+ 1962  git ls-files
+ 1963  git rm README.md 
+ 1964  git ls-files
+ 1965  git history
